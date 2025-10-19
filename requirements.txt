@@ -1,5 +1,4 @@
-streamlit
-requests
-google-auth
-google-cloud-secret-manager
-gunicorn
+streamlit==1.31.0
+requests==2.31.0
+google-auth==2.27.0
+google-cloud-secret-manager==2.18.0
